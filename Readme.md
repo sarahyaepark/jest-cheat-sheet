@@ -12,6 +12,7 @@ _I recommend [Mrm](https://github.com/sapegin/mrm/tree/master/packages/mrm-task-
 
 <!-- To update TOC run: npx markdown-toc --maxdepth 3 -i Readme.md -->
 
+<!-- update -->
 <!-- toc -->
 
 - [Test structure](#test-structure)
